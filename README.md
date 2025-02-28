@@ -10,7 +10,7 @@ Esse projeto é o complemento do "Projeto Mundo Real com Fetch e GitHub", onde u
 - JavaScript
 
 
-## ❓♟️ Desafios
+## ♟️ Desafios
 
 O JavaScript tem sido um grande desafio, além de ser algo novo ainda demanda de um bom conhecimento de lógica. Exigiu de mim muita paciência, pesquisa e ajuda, mas aos poucos vou aprendendo.
 
